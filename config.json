@@ -1,0 +1,35 @@
+{
+    "number_of_players": 2,
+    "players_email": [
+        "singhal.harsh2@gmail.com",
+        "abhyudaya633@gmail.com"
+    ],
+    "suspects": [
+        "Reverend Green",
+        "Mrs Peacock",
+        "Mrs White",
+        "Professor Plum",
+        "Colonel Mustard",
+        "Miss Scarlett"
+    ],
+    "weapons": [
+        "Revolver",
+        "Rope",
+        "Lead Pipe",
+        "Spanner",
+        "Candlestick",
+        "Dagger"
+    ],
+    "rooms": [
+        "Hall",
+        "Lounge",
+        "Dining Room",
+        "Ballroom",
+        "Conservatory",
+        "Billiard Room",
+        "Library",
+        "Study",
+        "Kitchen"
+    ],
+    "answer": "Professor Plum,Dagger,Billiard Room"
+}
